@@ -14,25 +14,29 @@ Each project repository should have a markdown file explaining the background an
 
 ### Background
 
-Inspired by the [Recurse Centre](https://www.recurse.com/) initiative (formally known as the "hacker school"), Brainhack School was established in 2018 with the mission to train students from a multidisciplinary background to a panoply of reproducible tools for neural data science, using a project-based approach. Following an initial 3-weeks long pilot, a 4th week was added with an intensive bootcamp, so that students could choose what tools to learn more deeply in their projects. As the course became integrated in standard curriculum at different universities, the formula seemed to be working. In order to streamline the different stages of the project, we needed some standard template and milestones to be incorporated in a github-based workflow. The "project template" project (which is also our first BHS meta-project) aims at establishing such a standardized template.
+Hypoglycemia is a common problem in preterm newborns. While being a relatively long-known disease, with a first recognized case in 1911, there is still no clear and consistent definition of hypoglycemia and what conditions can cause brain damage because of rational evidence lack [ ]. Existing research showed that hypoglycemia can lead to serious encephalopathy and brain functional damage, such as visual impairment, epilepsy and cognitive deficits. Additionally, hypoglycemia can cause both transient and permanent structural abnormalities on infant brains [ ]. However, few studies have reported a quantification of the impact of hypoglycemia on neonatal brain development. This is possibly limited by the relatively low sensitivity of brain microstructure imaging techniques. Reports indicated that magnetic resonance imaging (MRI) has a higher in vivo sensitivity to lesions in soft tissues, compared to other imaging modalities, and has the potential to identify and quantify hypoglycemic brain damage.
+
+A new model overcoming these challenges needs to be developed. The model is supposed to precisely estimate the level of increased cellularity, edema and axon / myelin injury caused by hypoglycemia.
 
 ### Tools 
 
-The "project template" project will rely on the following technologies: 
+The "D-MRI Model for Impacts Qualificaiton of Hypoglycemia on Brain" project will rely on the following technologies: 
+ * Python to be the main language used to complete this project.
  * [Markdown](https://guides.github.com/features/mastering-markdown/), to structure the text.
- * The [Hugo website framework](https://gohugo.io) which is used by the BHS website. This makes it possible to easily add the markdown project description to the website. 
- * Adding the project to the website relies on github, through pull requests. 
+ * SourceTree to manage the repository.
+ * Visual Studio Code to be code editor.
+
+
 
 ### Data 
 
-Ultimately, the project template will be used by all BHS participants. Data on the different projects will be aggregareted on the [following page](https://school.brainhackmtl.org/project). This will serve as an additional example gallery in the years to come for future brainhack school students. Many reports from [BHS 2019](https://github.com/mtl-brainhack-school-2019) already used this template. 
+Since this proposed multi tensor diffusion method has no additional scanning machine requirements than clinical, online public dataset will be used to test this model.  
 
 ### Deliverables
 
 At the end of this project, we will have:
- - The current markdown document, completed and revised.
- - A gallery of the student projects at Brainhack 2020.
- - Instructions on the website about how to submit a pull request to the [BrainHack School website](https://github.com/BrainhackMTL/school) in order to add the project description to the website. 
+ - Open-source code based on Python.
+ - A diffusion MRI model dedicated to accurate mapping of the microsturture of preterm baby brains. 
 
 ## Results 
 
