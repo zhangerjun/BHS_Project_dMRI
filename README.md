@@ -31,24 +31,53 @@ The "Diffusion MRI reconstruction project" will rely on the following technologi
 
 ### Data 
 
-I will use data from online dataset offered by The Developing Human COnnectome Project (http://www.developingconnectome.org/second-data-release/). It consists of over 800 neonatal scans and over 250 fetal scans, which can also be used to data analysis after image reconstruction.
+This project used data from online dataset offered by:
+1. The Developing Human COnnectome Project (http://www.developingconnectome.org/second-data-release/). It consists of over 800 neonatal scans and over 250 fetal scans, which can also be used to data analysis after image reconstruction. 
+2. PRIME (http://fcon_1000.projects.nitrc.org/indi/PRIMEdownloads.html). I use this one to as test dataset.
 
 ### Deliverables
 
 At the end of this project, we will have:
  - Open-source dMRI code based on Python.
  - A diffusion MRI model dedicated to accurate mapping of the microsturture of baby brains. 
- - 
+ - Adapt to other pipelines
+ - Show what has been changed by low blood sugar.
+ 
+Weekly Deliverable
+ - Week 1: [Assiginment 2](https://github.com/zhangerjun/Zhang-EJ-QLS612)
+ - Week 2: [README file](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/README.md)
+ - Week 3: [Data visualization](https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)
+ - Week 4: [Project report]()
 
 ## Results 
 
+1. Data Visulization (see gif figure (https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
+  - 3D volume slices image 
+  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.png)
+  - Interactive widgets use to show preprocess results 
+  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png)
+  - Interactive widgets use to shwo reconstruction results 
+  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.png)
+  
+  ![在makrdown上生成gif动画](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif)
 ### Progress overview
 
-Until now, the necessary tools and dataset are ready.
 
 ...
  
- 
+## Dependencies
+
+* Operation system: I use Linux (Ubuntu 20.04) to complete this project.
+* Python: both Python2 and Python3 were used in this project.
+* Jupter and jupyterlab are needed to run jupyter notebooks in this project.
+* Dipy (https://dipy.org/)
+* Nipype (http://miykael.github.io/nipype-beginner-s-guide/installation.html)
+* FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL). I installed FSL6.0 based on python2 following FslInstallation/Linux (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Linux) and FslInstallation/ShellSetup. In addtion, update Fsl-core is recommended.
+* NeuroDebian: To facilitate FSL and Nipype, NeuroDebian is need to be installed. I installed it following http://neuro.debian.net/.
+* AMICO (https://github.com/daducci/AMICO)
+
+
+
 ## Conclusion and acknowledgement
 
 TBD
