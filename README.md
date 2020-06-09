@@ -51,12 +51,12 @@ Weekly Deliverable
 
 ## Results 
 
-1. Data Visulization (see gif figure (https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
+1. Data Visulization (see [gif figure](https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
 
 <div aligh="center">
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif" width="300" alt="3D volume slices image">
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png" width="300" alt="Interactive widgets use to show preprocess results">	
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif" width="300" alt="Interactive widgets use to shwo reconstruction results">
+	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif" width="300" alt="Fig. 1">
+	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png" width="300" alt="Fig. 2">	
+	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif" width="300" alt="Fig. 3">
 </div>
   - 3D volume slices image 
   ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif)
