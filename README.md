@@ -53,9 +53,7 @@ Weekly Deliverable
 
 1. Data Visulization (see gif figure (https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
 <center class='third'>
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif" width="100">
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png"width="100"/>
-	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif"width="100"/>
+	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif" width="300"><img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png"width="300"/><img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif"width="300"/>
 </center>
   - 3D volume slices image 
   ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif)
