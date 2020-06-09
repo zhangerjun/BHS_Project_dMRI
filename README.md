@@ -52,19 +52,31 @@ Weekly Deliverable
 ## Results 
 
 1. Data Visulization (see gif figure (https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
+<center class='third'>
+	<img src='https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif'>
+	<img src='https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png'>
+	<img src='https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif'>
+</center>
   - 3D volume slices image 
-  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.png)
+  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif)
   - Interactive widgets use to show preprocess results 
   ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png)
   - Interactive widgets use to shwo reconstruction results 
-  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.png)
+  ![](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif)
   
-  ![在makrdown上生成gif动画](https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif)
 ### Progress overview
 
 
 ...
- 
+## What I leraned
+
+* Markdown
+* Github
+* Jupter notebook
+* How to reconstruct MR images starting from raw data
+* A small but useful gif maker tool: Peek (https://github.com/phw/peek). If you want to make GIF, I recommend it to you.
+
+
 ## Dependencies
 
 * Operation system: I use Linux (Ubuntu 20.04) to complete this project.
