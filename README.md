@@ -53,7 +53,7 @@ Weekly Deliverable
 
 1. Data Visulization (see [gif figure](https://github.com/brainhack-school2020/BHS_Project_dMRI/tree/master/Visualization)):
 
-<div aligh="center">
+<div align="center">
 	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/VolumeSlicesImg.gif" width="300" title="3D volume slices image">
 	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/PreprocessImg.png" width="300" title="Interactive widgets use to show preprocess results">	
 	<img src="https://github.com/brainhack-school2020/BHS_Project_dMRI/blob/master/Visualization/ReconstructedImg.gif" width="300" title="Interactive widgets use to show reconstruction results">
